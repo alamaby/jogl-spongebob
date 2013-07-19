@@ -79,7 +79,7 @@ public class SpongebobOnGlobe extends JFrame {
 
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
 
-        label.setText("Spongebob On Globe");
+        label.setText("Patrick! Kamu harus melihat ini!");
 
         GroupLayout panelLayout = new GroupLayout(panel);
         panel.setLayout(panelLayout);
